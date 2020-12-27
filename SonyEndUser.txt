@@ -1,0 +1,70 @@
+END-USER LICENSE AGREEMENT
+
+This Software Agreement ("Agreement") is between You (either an individual or an entity), the End User, and Sony Mobile Communications Inc. ("Sony Mobile"). The Agreement authorizes You to use the Software specified in Clause 1 below, which may be stored on a CD-ROM, sent to You by electronic mail, or downloaded from Sony Mobile’s Web pages or Servers or from other sources solely under the terms and conditions set forth below. This is an agreement on end-user rights and not an agreement for sale. Except as provided elsewhere in this Agreement, Sony Mobile and/or its licensors continues to own the copy of the Software and the physical media contained in the sales package and any other copy that You are authorized to make pursuant to this Agreement.
+
+Read this Agreement carefully before installing, downloading, or using the Software. By clicking on the "I Accept" button while installing, downloading, and/or using the Software, You agree to the terms and conditions of this Agreement. If You do not agree to all of the terms and conditions of this Agreement, promptly click the "Decline" or "I Do Not Accept" button, cancel the installation or downloading, or destroy or return the Software and accompanying documentation to Sony Mobile. YOU AGREE THAT YOUR USE OF THE SOFTWARE ACKNOWLEDGES THAT YOU HAVE READ THIS AGREEMENT, UNDERSTAND IT, AND AGREE TO BE BOUND BY ITS TERMS AND CONDITIONS.
+
+1. SOFTWARE.
+
+As used in this Agreement, the term "Software" means, collectively: (i) the software product identified above (including any third-party software included therein or therewith) (ii) all the contents of the disk(s), CD-ROM(s), electronic mail and its file attachments, or other media with which this Agreement is provided, including the object code form of the software delivered via a CD-ROM, electronic mail, or Web page (iii) digital images, stock photographs, clip art, or other artistic works ("Stock Files") (iv) related explanatory written materials and any other possible documentation related thereto ("Documentation"); (v) fonts, and (vi) upgrades, modified versions, updates, additions, and copies of the Software (collectively "Updates"), if any, licensed to You by Sony Mobile under this Agreement.
+
+2. END USER RIGHTS AND USE.
+
+Sony Mobile grants You non-exclusive, non-transferable end-user copyright rights to download the Software on the local hard disk(s) or other permanent storage media of one computer and install the Software, by using the Fastboot Protocol, on a single Sony Mobile device with an unlocked boot loader at a time. Except as provided by any Open Source License Terms, You may use the Software only for the sole purpose of testing and validating Your own applications and/or content (“Purpose”).
+
+You acknowledge that certain software components of the Software (“Open Source Components”) may be covered by so-called “Open Source License Terms”. As used herein, Open Source License Terms means any software licenses approved as open source licenses by the Open Source Initiative or any substantially similar licenses, including without limitation any license that, as a condition of use, modification, or distribution of the software licensed under such license or other software incorporated into, derived from or distributed with such software, requires that the distributor: (a) make the software available in source code format; (b) grant permission for creation of derivative works; or (c) grant a royalty free license thereto or under any associated intellectual property rights. To the extent required by the licenses covering Open Source Components, the terms of such licenses will apply in lieu of the terms of this Agreement. To the extent the terms of the licenses applicable to Open Source Components prohibit any of the restrictions in this Agreement with respect to such Open Source Component, such restrictions will not apply to such Open Source Component. You shall not cause any portion of the Software to become subject to any license obligation under any Open Source License Terms. For clarity, in the event that all or any portion of the Software provided hereunder does not reference, or otherwise indicate, such Open Source License Terms, this Agreement shall control. Please review the complete list of Open Source Components and Open Source License Terms found in the NOTICE.txt file accompanying the Software.
+
+3. LIMITATIONS ON END USER RIGHTS.
+
+(a) You may not use (other than as expressly permitted for the Purpose), modify, translate, reproduce, or transfer the right to use the Software or copy the Software. You may not use the Software for any reason other than the Purpose.
+
+(b) You may not resell, sublicense, rent, lease, transfer, disclose or lend the Software to any third party.
+
+(c) You may not reverse engineer, reverse compile, disassemble, or otherwise attempt to discover the source code of the Software (except to the extent that this restriction is expressly prohibited by law) or create derivative works based on the Software.
+
+(d) Unless stated otherwise in the Documentation, You shall not display, modify, reproduce, or distribute any of the Stock Files included with the Software. In the event that the Documentation allows You to display the Stock Files, You shall not distribute the Stock Files on a stand-alone basis, i.e., in circumstances in which the Stock Files constitute the primary value of the product being distributed. You should review the "Readme" files associated with the Stock Files that You use to ascertain what rights You have with respect to such materials. Stock Files may not be used in the production of libelous, defamatory, fraudulent, infringing, lewd, obscene, or pornographic material or in any otherwise illegal manner. You may not register or claim any rights in the Stock Files or derivative works thereof.
+
+(e) You agree that You shall only use the Software in a manner that complies with all applicable laws in the jurisdiction in which You use the Software, including, but not limited to, applicable restrictions concerning copyright and other intellectual property rights.
+
+(f) Nothing contained herein is intended to or shall constitute a sale, transfer, conveyance, lease, or license of any intellectual property rights of Sony Mobile and/or its licensors, either expressly or by implication, estoppel or otherwise.
+
+4. COPYRIGHT.
+
+The Software and all rights, without limitation including proprietary rights therein, are owned by Sony Mobile and/or its licensors and affiliates and are protected by international treaty provisions and all other applicable national laws of the country in which it is being used. The structure, organization, and code of the Software are the valuable trade secrets and confidential information of Sony Mobile and/or its licensors and affiliates. You must not copy the Software, except as set forth in clause 3 (Limitations On End-User Rights). Any copies which You are permitted to make pursuant to this Agreement must contain the same copyright and other proprietary notices that appear on the Software.
+
+5. COMMENCEMENT & TERMINATION.
+
+This Agreement is effective from the first date You download the Software. You may terminate this Agreement at any time by permanently deleting, destroying, and returning, at Your own costs, the Software, all backup copies, and all related materials provided by Sony Mobile. This Agreement can be terminated in writing by Sony Mobile, at any time, without prior notice. Notwithstanding the above, this Agreement will terminate, and the license granted to you by this Agreement will be revoked, immediately, without any notice from Sony Mobile, if you fail to comply with any provision of this Agreement. Upon termination, you must destroy the Software. In such an event, You must immediately delete, destroy, or return at Your own cost, the Software, all backup copies, and all related material to Sony Mobile.
+
+6. YOU ACKNOWLEDGE THAT THE SOFTWARE IS PROVIDED "AS IS" WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, AND TO THE MAXIMUM EXTENT PERMITTED BY APPLICABLE LAW
+
+NEITHER SONY MOBILE, ITS LICENSORS OR AFFILIATES, NOR THE COPYRIGHT HOLDERS MAKE ANY REPRESENTATIONS OR WARRANTIES, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY OR FITNESS FOR A PARTICULAR PURPOSE OR THAT THE SOFTWARE WILL NOT INFRINGE ANY THIRD PARTY PATENTS, COPYRIGHTS, TRADEMARKS, OR OTHER RIGHTS. THERE IS NO WARRANTY BY SONY MOBILE OR BY ANY OTHER PARTY THAT THE FUNCTIONS CONTAINED IN THE SOFTWARE WILL MEET YOUR REQUIREMENTS OR THAT THE OPERATION OF THE SOFTWARE WILL BE UNINTERRUPTED OR ERROR-FREE. YOU ASSUME ALL RESPONSIBILITY AND RISK FOR THE SELECTION OF THE SOFTWARE TO ACHIEVE YOUR INTENDED RESULTS AND FOR THE INSTALLATION, USE, AND RESULTS OBTAINED FROM IT.
+
+7. NO OTHER OBLIGATIONS.
+
+This Agreement creates no obligations on the part of Sony Mobile or its licensors other than as specifically set forth herein.
+
+8. LIMITATION OF LIABILITY.
+
+TO THE MAXIMUM EXTENT PERMITTED BY APPLICABLE LAW, IN NO EVENT SHALL SONY MOBILE, ITS EMPLOYEES OR LICENSORS OR AFFILIATES BE LIABLE FOR ANY LOST PROFITS, REVENUE, SALES, DATA, OR COSTS OF PROCUREMENT OF SUBSTITUTE GOODS OR SERVICES, PROPERTY DAMAGE, PERSONAL INJURY, INTERRUPTION OF BUSINESS, LOSS OF BUSINESS INFORMATION, OR FOR ANY SPECIAL, DIRECT, INDIRECT, INCIDENTAL, ECONOMIC, COVER, PUNITIVE, SPECIAL, OR CONSEQUENTIAL DAMAGES, HOWEVER CAUSED AND WHETHER ARISING UNDER CONTRACT, TORT, NEGLIGENCE, OR OTHER THEORY OF LIABILITY ARISING OUT OF THE USE OF OR INABILITY TO USE THE SOFTWARE, EVEN IF SONY MOBILE OR ITS LICENSORS OR AFFILIATES ARE ADVISED OF THE POSSIBILITY OF SUCH DAMAGES. BECAUSE SOME COUNTRIES/STATES/ JURISDICTIONS DO NOT ALLOW THE EXCLUSION OF LIABILITY, BUT MAY ALLOW LIABILITY TO BE LIMITED, IN SUCH CASES, SONY MOBILE, ITS EMPLOYEES OR LICENSORS OR AFFILIATES' LIABILITY SHALL BE LIMITED TO U.S. $50. Nothing contained in this Agreement shall prejudice the statutory rights of any party dealing as a consumer. Nothing contained in this Agreement limits Sony Mobile's liability to You in the event of death or personal injury resulting from Sony Mobile's negligence. Sony Mobile is acting on behalf of its employees and licensors or affiliates for the purpose of disclaiming, excluding, and/or restricting obligations, warranties, and liability as provided in this clause 9, but in no other respects and for no other purpose.
+
+9. TECHNICAL SUPPORT.
+
+Sony Mobile and its licensors have no obligation to furnish You with technical support unless separately agreed in writing between You and Sony Mobile.
+
+10. EXPORT CONTROL.
+
+The Software, including technical data, includes cryptographic software subject to export controls under the U.S. Export Administration Regulations ("EAR") and may be subject to import or export controls in other countries. Software may not be downloaded, or otherwise exported or re-exported (i) into, or to a national or resident of, Cuba, Iran, Iraq, Iran, North Korea, Libya, Sudan, Syria, or any country to which the U.S. has embargoed goods; or (ii) to anyone on the U.S. Treasury Department’s list of Specially Designated Nations or the U.S. Commerce Department’s Table of Denial Orders. The EAR prohibits the use of the Software and technical data by a Government End User, as defined hereafter, without a license from the U.S. government. A Government End User is defined in Part 772 of the EAR as "any foreign central, regional, or local government department, agency, or other entity performing governmental functions; including governmental research institutions, governmental corporations, or their separate business units (as defined in part 772 of the EAR) which are engaged in the manufacture or distribution of items or services controlled on the Wassenaar Munitions List, and international governmental organizations. This term does not include: utilities (telecommunications companies and Internet service providers; banks and financial institutions; transportation; broadcast or entertainment; educational organizations; civil health and medical organizations; retail or wholesale firms; and manufacturing or industrial entities not engaged in the manufacture or distribution of items or services controlled on the Wassenaar Munitions List.)" You agree to strictly comply with all applicable import and export regulations and acknowledge that You have the responsibility to obtain licenses to export, re- export, transfer, or import the Software. You further represent that You are not a Government End User as defined above, and You will not transfer the Software to any Government End User without a license.
+
+11. NOTICES.
+
+All notices and return of the Software and Documentation should be delivered to:
+
+SONY MOBILE COMMUNICATIONS AB SE - 221 88 LUND SWEDEN
+
+12. APPLICABLE LAW & GENERAL PROVISIONS.
+
+This Agreement is governed by the laws of Japan. All disputes arising from or relating to this Agreement shall be finally settled under the Rules of Arbitration of the International Chamber of Commerce by one arbitrator appointed in accordance with the said Rules. The arbitration procedure shall take place in Tokyo, Japan and in the English language. If any part of this Agreement is found void and unenforceable, it will not affect the validity of the balance of the Agreement, which shall remain valid and enforceable according to its terms. This Agreement may only be modified by a writing signed by an authorized officer of Sony, although Sony may vary the terms of this Agreement.
+
+This is the entire agreement between Sony Mobile and You relating to the Software, and it supersedes any prior representations, discussions, undertakings, end-user agreements, communications, or advertising relating to the Software.
+close
